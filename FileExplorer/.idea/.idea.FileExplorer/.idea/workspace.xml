@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c39e0ea2-80c3-4b52-a707-4cbe996d8f0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FileExplorer/FileExplorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FileExplorer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FileExplorer/temp.txt" />
+        <option value="$PROJECT_DIR$/FileExplorer/Program.cs" />
+        <option value="$PROJECT_DIR$/FileExplorer/FileExplorer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivuUYpcyyCc5UAIexRYv5udCCz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FileExplorer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileExplorer/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FileExplorer/FileExplorer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c39e0ea2-80c3-4b52-a707-4cbe996d8f0b" name="Default Changelist" comment="" />
+      <created>1602800402406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602800402406</updated>
+      <workItem from="1602800407327" duration="220000" />
+      <workItem from="1602802377584" duration="13247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602813449026">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1602813449026" />
+    <state x="441" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602811872259">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="441" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1602811872259" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom" timestamp="1602819028273">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602819028273" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center" timestamp="1602819028273">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602819028273" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left" timestamp="1602819028272">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602819028272" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right" timestamp="1602819028273">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602819028273" />
+  </component>
+</project>

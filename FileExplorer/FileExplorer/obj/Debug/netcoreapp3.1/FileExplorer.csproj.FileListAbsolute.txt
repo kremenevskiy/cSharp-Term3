@@ -1,0 +1,12 @@
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.deps.json
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.runtimeconfig.json
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.runtimeconfig.dev.json
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.dll
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/bin/Debug/netcoreapp3.1/FileExplorer.pdb
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.csprojAssemblyReference.cache
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.csproj.CoreCompileInputs.cache
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.AssemblyInfoInputs.cache
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.AssemblyInfo.cs
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.dll
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.pdb
+/Users/kremenevskiy/Desktop/cSharp/FileExplorer/FileExplorer/obj/Debug/netcoreapp3.1/FileExplorer.genruntimeconfig.cache
