@@ -12,6 +12,7 @@ namespace FileExplorer
         {
             FileExplorer fileExplorer = FileExplorer.GetInstance();
             fileExplorer.Run();
+
         }
     }
 }
