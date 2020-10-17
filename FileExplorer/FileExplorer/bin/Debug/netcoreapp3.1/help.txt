@@ -1,0 +1,34 @@
+Available commands:
+	cd: cd [DIR]
+		Change the current directory to DIR.
+	pwd: pwd
+		Print the current working directory.
+	ls: ls
+		List directories contents.
+	mkdir: mkdir [DIR_NAME]
+		Make directories.
+	rm: rm [FILE]
+	    rm [DIR]
+		Remove directory or files entries.
+	cat: cat [FILE]
+	     cat [zip_FILE] [Zip_PATH]
+		Print files.
+		UnZip zip_File to Zip_PATH
+	touch: touch [NEW_FILE]
+	       touch [zip_FILE] [Zip_PATH]
+		Creates files with default permissions.
+		Creates zip archive from Zip_PATH
+	cp: cp [source_file] [target_file]
+	       [source_file] [distination]
+		Copies the contents of the source_file to target_file.
+		Copeis the contents of the source_file is copied to the distination.
+	mv: mv [source_file] [distination]
+	    mv [source_file] [target]
+		Move source_file contents to distination direcory.
+		Renames file named by source_file to the distination path named by the target operand. 
+	help: help
+		Get help.
+	clear: clear
+		Clear the screen.
+	exit: exit
+		Exit the Program with ExitCode(0).
