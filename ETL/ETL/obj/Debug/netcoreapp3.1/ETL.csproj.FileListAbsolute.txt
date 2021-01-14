@@ -1,0 +1,13 @@
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.exe
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.deps.json
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.runtimeconfig.json
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.runtimeconfig.dev.json
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.dll
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\bin\Debug\netcoreapp3.1\ETL.pdb
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.csprojAssemblyReference.cache
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.AssemblyInfoInputs.cache
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.AssemblyInfo.cs
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.csproj.CoreCompileInputs.cache
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.dll
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.pdb
+C:\Users\kremenevskiy\desktop\dotnet\ETL\ETL\obj\Debug\netcoreapp3.1\ETL.genruntimeconfig.cache
